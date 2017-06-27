@@ -45,7 +45,7 @@ en:
               blank: _Sorry, but title can't be empty
 ```
 
-**Add error manually**
+**Adding error manually**
 ```ruby
 post   = Post.new
 errors = post.errors
